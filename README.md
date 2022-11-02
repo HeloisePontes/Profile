@@ -17,9 +17,3 @@
 💌 sinta-se à vontade para entrar em contato comigo:
 
 <a href="https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<a href="mailto: heloisepontes@gmail.com">![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-
-  
-<a href="mailto: heloisepontes@gmail.com">![Gmail]([https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](https://img.shields.io/badge/-GMAIL-blue))</a>
-  
