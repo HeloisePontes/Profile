@@ -2,18 +2,15 @@
 
 <p>me chamo Heloise, meus pronomes são ela/dela e resido em campina grande/PB. 📍
 
-<br>atualmente, estou focando no meu desenvolvimento como web developer e aprimorando meus conhecimentos de forma autodidata, através de cursos e bootcamps.
-
+<br>atualmente, estou focando em aprimorar meus conhecimentos de forma autodidata, através de cursos e bootcamps.
 ​
 
-💻 para me conhecer melhor, essas são as tecnologias/ferramentas que possuo conhecimento:
+ ## Learning
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-​
-
-💌 sinta-se à vontade para entrar em contato comigo:
-
-<a href="https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+# Connect with me:
+<a href="[https://www.linkedin.com/in/diego-araujo1985](https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/)/" target="_blank">
+<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
