@@ -19,3 +19,7 @@
 <a href="https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="mailto: heloisepontes@gmail.com">![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+
+<a href="mailto: heloisepontes@gmail.com">![Gmail](https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Gmail – Apps no Google Play" data-noaft="1" style="width: 199px; height: 199px; margin: 0px)</a>
+
+<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Gmail – Apps no Google Play" data-noaft="1" style="width: 199px; height: 199px; margin: 0px;">
