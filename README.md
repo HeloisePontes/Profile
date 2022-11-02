@@ -12,5 +12,5 @@
   
 
 ## Connect with me:
-<a href="[https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/](https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/)/" target="_blank">
+<a href="https://www.linkedin.com/in/heloise-pontes-de-macedo-8339a5133/" target="_blank">
 <img align="center" alt="heloise-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
